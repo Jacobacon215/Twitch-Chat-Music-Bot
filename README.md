@@ -1,6 +1,8 @@
 # Twitch-Chat-Music-Bot
 It's like the Discord Groovy bot but for twitch
 
+WARNING: you will definitely need python 3 for this
+
 
 INSTALLATION:
 
